@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>Penjaminan_SQL_Server</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>commision</word>
+            <word>dengan</word>
+            <word>dibayarkan</word>
+            <word>endif</word>
+            <word>foreach</word>
+            <word>kepada</word>
+            <word>Kredit</word>
+            <word>memberikan</word>
+            <word>php</word>
+            <word>Pihak</word>
+            <word>Revisi</word>
+            <word>sehingga</word>
+            <word>tglGrace</word>
+            <word>tidak</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
